@@ -4,7 +4,7 @@ We used Plexiglass for the top platform. We used six servo motors for angular ac
 
 <img src="https://github.com/user-attachments/assets/31272fb1-a447-494b-a86d-9c18dd6889b0" width="450" height="500" />
 
-
+       
 In the ball and beam system (with the Stewart model), we can control the ball's position with other components on the upper platform and place it in any desired position. Among the things that this device does, the following can be mentioned:
   1. Centralize the position of the ball
   2. Fix the position of the ball in the desired coordinates
